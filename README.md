@@ -14,7 +14,7 @@ Este projeto consiste em um chatbot utilizando Streamlit e a API Gemini para ger
 ### 1. Clone o Repositório
 
 ```bash
-git clone https://github.com/samuel-gaudencio/chatbot
+git clone https://github.com/Samuel-Gaudencio/chatbot
 cd chatbot
 ```
 
